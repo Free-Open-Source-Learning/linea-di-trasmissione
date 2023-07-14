@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {0.1}Richiami di teoria}{2}{}%
+\contentsline {subsection}{\numberline {0.1.1}Linea di trasmissione infinita}{2}{}%
+\contentsline {subsection}{\numberline {0.1.2}Linea finita}{3}{}%
+\contentsline {subsection}{\numberline {0.1.3}Velocità di trasmissione e costante dielettrica}{4}{}%
+\contentsline {section}{\numberline {0.2}Attività sperimentale}{5}{}%
+\contentsline {subsection}{\numberline {0.2.1}Calcolo del coefficiente dielettrico della linea}{5}{}%
+\contentsline {subsection}{\numberline {0.2.2}Stima dei parametri della linea}{5}{}%
+\contentsline {section}{\numberline {0.3}Simulazione su SIMetrix e studio del segnale}{6}{}%
+\contentsline {subsection}{\numberline {0.3.1}Circuito simulato, segnale in ingresso e considerazioni iniziali}{6}{}%
+\contentsline {subsection}{\numberline {0.3.2}Presa dati}{7}{}%
+\contentsline {subsubsection}{\numberline {0.3.2.1}Adattamento in potenza}{7}{}%
+\contentsline {subsubsection}{\numberline {0.3.2.2}Riflessione con interferenza costruttiva}{8}{}%
+\contentsline {subsubsection}{\numberline {0.3.2.3}Riflessione con interferenza distruttiva}{12}{}%
